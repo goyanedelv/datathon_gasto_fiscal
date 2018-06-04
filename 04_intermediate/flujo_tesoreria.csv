@@ -1,0 +1,187 @@
+Periodo,From,To,Monto
+2009,Tesoreria,Ciudadania,645882
+2009,Tesoreria,Deuda,262901
+2009,Tesoreria,Educación,5133015
+2009,Tesoreria,Industria y Hacienda,1483077
+2009,Tesoreria,Infraestructura,2077272
+2009,Tesoreria,Interior y Gobierno,2980133
+2009,Tesoreria,Inversion,14
+2009,Tesoreria,Organismo Autonomo,622103
+2009,Tesoreria,Otros,937790
+2009,Tesoreria,Salud,1971006
+2009,Tesoreria,Seguridad Social,7343698
+2010,Tesoreria,Ciudadania,693869
+2010,Tesoreria,Deuda,343526
+2010,Tesoreria,Educación,5796197
+2010,Tesoreria,Industria y Hacienda,1538670
+2010,Tesoreria,Infraestructura,2472858
+2010,Tesoreria,Interior y Gobierno,3298652
+2010,Tesoreria,Inversion,12
+2010,Tesoreria,Medio Ambiente,0
+2010,Tesoreria,Organismo Autonomo,679432
+2010,Tesoreria,Otros,1069189
+2010,Tesoreria,Salud,2404695
+2010,Tesoreria,Seguridad Social,7793003
+2011,Tesoreria,Ciudadania,766937
+2011,Tesoreria,Deuda,636921
+2011,Tesoreria,Educación,6378156
+2011,Tesoreria,Industria y Hacienda,1142205
+2011,Tesoreria,Infraestructura,2507320
+2011,Tesoreria,Interior y Gobierno,3707801
+2011,Tesoreria,Inversion,1620104
+2011,Tesoreria,Medio Ambiente,35244
+2011,Tesoreria,Organismo Autonomo,705620
+2011,Tesoreria,Organismos Internacionales,11
+2011,Tesoreria,Otros,1173105
+2011,Tesoreria,Salud,2893208
+2011,Tesoreria,Seguridad Social,8925231
+2012,Tesoreria,Ciudadania,804840
+2012,Tesoreria,Deuda,707852
+2012,Tesoreria,Educación,6874366
+2012,Tesoreria,Industria y Hacienda,1112695
+2012,Tesoreria,Infraestructura,2362131
+2012,Tesoreria,Interior y Gobierno,3734809
+2012,Tesoreria,Inversion,10822
+2012,Tesoreria,Medio Ambiente,36494
+2012,Tesoreria,Organismo Autonomo,720841
+2012,Tesoreria,Organismos Internacionales,1111
+2012,Tesoreria,Otros,1356911
+2012,Tesoreria,Salud,3043930
+2012,Tesoreria,Seguridad Social,9125874
+2013,Tesoreria,Ciudadania,839784
+2013,Tesoreria,Deuda,750439
+2013,Tesoreria,Educación,7640233
+2013,Tesoreria,Industria y Hacienda,1140957
+2013,Tesoreria,Infraestructura,2578579
+2013,Tesoreria,Interior y Gobierno,3930275
+2013,Tesoreria,Inversion,9069
+2013,Tesoreria,Medio Ambiente,41069
+2013,Tesoreria,Organismo Autonomo,741224
+2013,Tesoreria,Organismos Internacionales,9132
+2013,Tesoreria,Otros,4013304
+2013,Tesoreria,Salud,3184646
+2013,Tesoreria,Seguridad Social,9117573
+2014,Tesoreria,Ciudadania,843228
+2014,Tesoreria,Deuda,852018
+2014,Tesoreria,Educación,7587186
+2014,Tesoreria,Industria y Hacienda,1106374
+2014,Tesoreria,Infraestructura,2449884
+2014,Tesoreria,Interior y Gobierno,3504445
+2014,Tesoreria,Inversion,9384
+2014,Tesoreria,Medio Ambiente,40162
+2014,Tesoreria,Organismo Autonomo,737752
+2014,Tesoreria,Organismos Internacionales,9979
+2014,Tesoreria,Otros,2348162
+2014,Tesoreria,Salud,3363254
+2014,Tesoreria,Seguridad Social,8563470
+2015,Tesoreria,Ciudadania,1039911
+2015,Tesoreria,Deuda,968655
+2015,Tesoreria,Educación,8225056
+2015,Tesoreria,Industria y Hacienda,1291866
+2015,Tesoreria,Infraestructura,2810599
+2015,Tesoreria,Interior y Gobierno,3748129
+2015,Tesoreria,Inversion,30
+2015,Tesoreria,Medio Ambiente,46846
+2015,Tesoreria,Organismo Autonomo,781413
+2015,Tesoreria,Organismos Internacionales,8938
+2015,Tesoreria,Otros,2655530
+2015,Tesoreria,Salud,3998942
+2015,Tesoreria,Seguridad Social,8967735
+2016,Tesoreria,Ciudadania,1075761
+2016,Tesoreria,Deuda,1158594
+2016,Tesoreria,Educación,8919217
+2016,Tesoreria,Industria y Hacienda,1603092
+2016,Tesoreria,Infraestructura,2876866
+2016,Tesoreria,Interior y Gobierno,4252328
+2016,Tesoreria,Inversion,2142
+2016,Tesoreria,Medio Ambiente,49701
+2016,Tesoreria,Organismo Autonomo,850124
+2016,Tesoreria,Organismos Internacionales,3437
+2016,Tesoreria,Otros,3464050
+2016,Tesoreria,Salud,4257672
+2016,Tesoreria,Seguridad Social,9155946
+2017,Tesoreria,Ciudadania,1091982
+2017,Tesoreria,Deuda,1295053
+2017,Tesoreria,Educación,9264055
+2017,Tesoreria,Industria y Hacienda,1477616
+2017,Tesoreria,Infraestructura,2857628
+2017,Tesoreria,Interior y Gobierno,4203427
+2017,Tesoreria,Inversion,5745
+2017,Tesoreria,Medio Ambiente,51302
+2017,Tesoreria,Organismo Autonomo,895092
+2017,Tesoreria,Organismos Internacionales,3484
+2017,Tesoreria,Otros,4600239
+2017,Tesoreria,Salud,4683330
+2017,Tesoreria,Seguridad Social,9473601
+2009,Devolucion y Credito de Impuestos,Tesoreria,-3088964
+2009,Endeudamiento,Tesoreria,1938185
+2009,Impuesta a la Renta,Tesoreria,13201740
+2009,Impuestos Productos Especificos,Tesoreria,2055306
+2009,IVA,Tesoreria,11100261
+2009,Otros,Tesoreria,3301797
+2009,Otros Impuestos,Tesoreria,598161
+2009,Venta o Rescate de Titulos y Valores,Tesoreria,21
+2010,Devolucion y Credito de Impuestos,Tesoreria,1363571
+2010,Endeudamiento,Tesoreria,3040505
+2010,Impuesta a la Renta,Tesoreria,9318174
+2010,Impuestos Productos Especificos,Tesoreria,2256365
+2010,IVA,Tesoreria,8649402
+2010,Otros,Tesoreria,1922108
+2010,Otros Impuestos,Tesoreria,497976
+2010,Venta o Rescate de Titulos y Valores,Tesoreria,2433403
+2011,Devolucion y Credito de Impuestos,Tesoreria,-2535220
+2011,Endeudamiento,Tesoreria,3686009
+2011,Impuesta a la Renta,Tesoreria,14445475
+2011,Impuestos Productos Especificos,Tesoreria,2625299
+2011,IVA,Tesoreria,11336239
+2011,Otros,Tesoreria,2244544
+2011,Otros Impuestos,Tesoreria,639921
+2011,Venta o Rescate de Titulos y Valores,Tesoreria,33
+2012,Devolucion y Credito de Impuestos,Tesoreria,-3338122
+2012,Endeudamiento,Tesoreria,3403670
+2012,Impuesta a la Renta,Tesoreria,14964793
+2012,Impuestos Productos Especificos,Tesoreria,2707514
+2012,IVA,Tesoreria,11726792
+2012,Otros,Tesoreria,2037142
+2012,Otros Impuestos,Tesoreria,710753
+2012,Venta o Rescate de Titulos y Valores,Tesoreria,705002
+2013,Devolucion y Credito de Impuestos,Tesoreria,-1748735
+2013,Endeudamiento,Tesoreria,3476340
+2013,Impuesta a la Renta,Tesoreria,13421933
+2013,Impuestos Productos Especificos,Tesoreria,2298305
+2013,IVA,Tesoreria,13109492
+2013,Otros,Tesoreria,4668868
+2013,Otros Impuestos,Tesoreria,660402
+2013,Venta o Rescate de Titulos y Valores,Tesoreria,3060046
+2014,Devolucion y Credito de Impuestos,Tesoreria,-1376131
+2014,Endeudamiento,Tesoreria,3486103
+2014,Impuesta a la Renta,Tesoreria,12678924
+2014,Impuestos Productos Especificos,Tesoreria,2333734
+2014,IVA,Tesoreria,13433805
+2014,Otros,Tesoreria,2643796
+2014,Otros Impuestos,Tesoreria,671623
+2014,Venta o Rescate de Titulos y Valores,Tesoreria,1806026
+2015,Devolucion y Credito de Impuestos,Tesoreria,-278444
+2015,Endeudamiento,Tesoreria,4679171
+2015,Impuesta a la Renta,Tesoreria,12769238
+2015,Impuestos Productos Especificos,Tesoreria,2650963
+2015,IVA,Tesoreria,13361301
+2015,Otros,Tesoreria,2389045
+2015,Otros Impuestos,Tesoreria,696649
+2015,Venta o Rescate de Titulos y Valores,Tesoreria,2318623
+2016,Devolucion y Credito de Impuestos,Tesoreria,-526662
+2016,Endeudamiento,Tesoreria,6458582
+2016,Impuesta a la Renta,Tesoreria,12490469
+2016,Impuestos Productos Especificos,Tesoreria,2684618
+2016,IVA,Tesoreria,13933910
+2016,Otros,Tesoreria,2653272
+2016,Otros Impuestos,Tesoreria,686953
+2016,Venta o Rescate de Titulos y Valores,Tesoreria,2627587
+2017,Devolucion y Credito de Impuestos,Tesoreria,-2357813
+2017,Endeudamiento,Tesoreria,6444909
+2017,Impuesta a la Renta,Tesoreria,13481917
+2017,Impuestos Productos Especificos,Tesoreria,2747407
+2017,IVA,Tesoreria,15498034
+2017,Otros,Tesoreria,3344635
+2017,Otros Impuestos,Tesoreria,725143
+2017,Venta o Rescate de Titulos y Valores,Tesoreria,3207148
