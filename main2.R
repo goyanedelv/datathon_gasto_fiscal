@@ -1,13 +1,12 @@
 #Main versión 2.
 
-setwd("C:/Users/Gonzalo/Dropbox (JPAL LAC)/datathon_gasto_fiscal/")
 library(ggplot2)
 library(ggalt)
 library(plotly)
 library(htmlwidgets)
 
 Sys.setenv("plotly_username"="goyanedelv")
-Sys.setenv("plotly_api_key"="WFN3n6xIP3poictQE44l")
+Sys.setenv("plotly_api_key"="......")
 
 # Benchmark prensa
 #### En 2017 budget fue de $42.000.000.000.000 o $42 billones o $42.000.000 millones)
